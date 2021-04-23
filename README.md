@@ -1,6 +1,15 @@
 # Excel2MultipleCSVs
-Split an Excel file with multiple tabs into CSV files for each tab. 
-e.g. Workbook 
+Split an Excel file with multiple tabs into CSV files for each tab. For Example: 
+
+Input: 
+-  Workbook.xlsx
+    - tab1 = myfavouritecats
+    - tab2 = myfavouritedogs
+    
+Output: 
+- myfavouritecats.csv
+- myfavouritedogs.csv
+
 
 ## Requirements
 - Composer
