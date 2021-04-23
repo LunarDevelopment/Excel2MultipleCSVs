@@ -1,0 +1,15 @@
+{
+    "name": "lewis/excel2multiple-cs-vs",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Lewis Dimmick",
+            "email": "development.lunar@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.17",
+        "vanilla/garden-cli": "^3.1",
+        "symfony/var-dumper": "^5.2"
+    }
+}
